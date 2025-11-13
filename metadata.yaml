@@ -1,0 +1,84 @@
+ID: "COMP2029"
+SimilarID: []
+Name: "面向领域的计算机系统设计与开发实践"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [ "计算机" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP2029"
+  CourseName: "面向领域的计算机系统设计与开发实践"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: "课程以导师课题分组带领学生的形式授课，需要在选课环节先选导师，进行学生导师互选"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "过程检查"
+      Percentage: "30"
+    - Name: "结题验收"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "32"
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "计算机", "智能强基班" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP2029"
+  CourseName: "面向领域的计算机系统设计与开发实践"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: "课程以导师课题分组带领学生的形式授课，需要在选课环节先选导师，进行学生导师互选"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "过程检查"
+      Percentage: "30"
+    - Name: "结题验收"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "32"
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "计算机" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP2029"
+  CourseName: "面向领域的计算机系统设计与开发实践"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: "课程以导师课题分组带领学生的形式授课，需要在选课环节先选导师，进行学生导师互选"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "过程检查"
+      Percentage: "30"
+    - Name: "结题验收"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "32"
