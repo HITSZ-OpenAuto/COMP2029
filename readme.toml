@@ -1,7 +1,6 @@
 course_name = "面向领域的计算机系统设计与开发实践"
-repo_type = "normal"
 course_code = "COMP2029"
-
+repo_type = "normal"
 description = """
 2018 级大三下、2019 级大四上开设 COMP2024B 软件设计与开发实践B Design and Practice of software (B)。
 2020 级起改为大四上开设 COMP2029 面向领域的计算机系统设计与开发实践 Domain Oriented for System Design and Practice。
