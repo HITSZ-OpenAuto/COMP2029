@@ -1,3 +1,0 @@
-category: 必修
-semester: 第四学年秋季
-name: 面向领域的计算机系统设计与开发实践
